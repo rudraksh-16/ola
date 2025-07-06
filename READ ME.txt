@@ -1,0 +1,59 @@
+Ola Booking Analysis 
+
+Project Overview --------------------------->
+
+Hello, I am Saurav Singh, an AI/ML enthusiast. This is my Ola Booking Analysis project, which I developed after learning key concepts from the Top VarSity YouTube channel. After understanding the core ideas, I applied additional operations independently to enhance the analysis.
+
+This project is a data analytics study on Ola ride bookings in June 2024. The analysis aims to derive meaningful insights from the ride booking data by leveraging Excel, MySQL, and Power BI. The project follows a structured approach, including data cleaning, SQL-based analysis, and interactive dashboard creation.
+
+
+Tools & Technologies Used ------------------------------------------------->
+
+Microsoft Excel – Data cleaning and preprocessing
+
+MySQL – Data storage and query execution for insights
+
+Power BI – Dashboard creation and data visualization
+
+
+Workflow ------------------------------------------------->
+
+1. Data Cleaning (Excel)
+
+Removed duplicates and missing values
+
+Standardized date and time formats
+
+Ensured data consistency
+
+2. Data Analysis (MySQL)
+
+Wrote SQL queries to extract key insights, such as:
+
+Total rides per day
+
+Peak booking hours
+
+Most popular pickup and drop-off locations
+
+Average fare per ride
+
+Payment method preferences
+
+3. Data Visualization (Power BI)
+
+Created an interactive dashboard showcasing key insights
+
+Used bar charts, line graphs, and maps for better visualization
+
+Designed a user-friendly interface for easy data interpretation
+
+Key Insights ------------------------------------------------->
+
+Identified peak booking hours for better resource allocation
+
+Analyzed customer ride preferences based on distance and fare
+
+Determined the most frequently used routes and locations
+
+Evaluated the distribution of different payment methods
